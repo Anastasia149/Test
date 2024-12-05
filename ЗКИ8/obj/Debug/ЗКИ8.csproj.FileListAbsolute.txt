@@ -1,0 +1,10 @@
+C:\Users\Анастасия\source\repos\ЗКИ8\ЗКИ8\bin\Debug\ЗКИ8.exe.config
+C:\Users\Анастасия\source\repos\ЗКИ8\ЗКИ8\bin\Debug\ЗКИ8.exe
+C:\Users\Анастасия\source\repos\ЗКИ8\ЗКИ8\bin\Debug\ЗКИ8.pdb
+C:\Users\Анастасия\source\repos\ЗКИ8\ЗКИ8\obj\Debug\ЗКИ8.csproj.AssemblyReference.cache
+C:\Users\Анастасия\source\repos\ЗКИ8\ЗКИ8\obj\Debug\ЗКИ8.Form1.resources
+C:\Users\Анастасия\source\repos\ЗКИ8\ЗКИ8\obj\Debug\ЗКИ8.Properties.Resources.resources
+C:\Users\Анастасия\source\repos\ЗКИ8\ЗКИ8\obj\Debug\ЗКИ8.csproj.GenerateResource.cache
+C:\Users\Анастасия\source\repos\ЗКИ8\ЗКИ8\obj\Debug\ЗКИ8.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\source\repos\ЗКИ8\ЗКИ8\obj\Debug\ЗКИ8.exe
+C:\Users\Анастасия\source\repos\ЗКИ8\ЗКИ8\obj\Debug\ЗКИ8.pdb
